@@ -1,74 +1,223 @@
-<p align="center"><h1>🧠 Awesome ChatGPT Prompts</h1></p>
+<p align="center"><h1>🇮🇩🧠 Indoprompts</h1></p>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Steamship](https://raw.githubusercontent.com/steamship-core/python-client/main/badge.svg)](https://www.steamship.com/build?utm_source=github&utm_medium=badge&utm_campaign=awesome_gpt_prompts&utm_id=awesome_gpt_prompts)
+### Disklaimer: Repositori ini merupakan translasi dari [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) yang diringkas sedemikian rupa agar dapat diakses secara mudah oleh warga Indonesia
 
-Welcome to the "Awesome ChatGPT Prompts" repository! This is a collection of prompt examples to be used with the ChatGPT model.
 
-The [ChatGPT](https://chat.openai.com/chat) model is a large language model trained by [OpenAI](https://openai.com) that is capable of generating human-like text. By providing it with a prompt, it can generate responses that continue the conversation or expand on the given prompt.
+**[Lihat Repository Orisinilnya di GitHub](https://github.com/f/awesome-chatgpt-prompts)**
 
-In this repository, you will find a variety of prompts that can be used with ChatGPT. We encourage you to [add your own prompts](https://github.com/f/awesome-chatgpt-prompts/edit/main/README.md) to the list, and to use ChatGPT to generate new prompts as well.
+**[Lihat Repository Orisinilnya di Hugging Face](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/)**
 
-To get started, simply clone this repository and use the prompts in the README.md file as input for ChatGPT. You can also use the prompts in this file as inspiration for creating your own.
+**Download Aplikasi Desktop ChatGPT**: **[macOS](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64.dmg)** / **[Windows](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64_en-US.msi)** / **[Linux](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/chat-gpt_0.10.1_amd64.deb)**
 
-We hope you find these prompts useful and have fun using ChatGPT!
+### Versi Panjang
 
-**[View on GitHub](https://github.com/f/awesome-chatgpt-prompts)**
+Selamat datang ke repositori "Indoprompts"! Repositori ini merupakan koleksi prompt yang bisa digunakan untuk AI ChatGPT. 
 
-**[View on Hugging Face](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts/)**
+Model [ChatGPT](https://chat.openai.com/chat) merupakan model bahasa yang dilatih oleh [OpenAI](https://openai.com) yang mampu menghasilkan teks mirip manusia. Dengan memberikan sebuah prompt, model ini dapat menghasilkan respons yang dapat melanjutkan percakapan atau mengembangkan topik dari prompt yang diberikan.
 
-**Download ChatGPT Desktop App**: **[macOS](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64.dmg)** / **[Windows](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/ChatGPT_0.10.1_x64_en-US.msi)** / **[Linux](https://github.com/lencx/ChatGPT/releases/download/v0.10.1/chat-gpt_0.10.1_amd64.deb)**
+Di repositori ini, Anda akan menemukan berbagai macam prompt yang dapat digunakan dengan ChatGPT. Kami mendorong Anda untuk [menambahkan prompt Anda sendiri](https://github.com/AyydenLmao/indoprompts/edit/main/README.md) ke dalam daftar, dan menggunakan ChatGPT untuk menghasilkan prompt-prompt baru.
 
-> ℹ️ **NOTE:** Sometimes, some of the prompts may not be working as you expected or may be rejected by the AI. Please try again, start a new thread, or log out and log back in. If these solutions do not work, please try rewriting the prompt using your own sentences while keeping the instructions same.
+Untuk memulai, anda cukup kloning repositori ini dan gunakan prompt yang terdapat dalam file README.md sebagai input untuk ChatGPT. Anda juga dapat menggunakan prompt yang terdapat dalam file ini sebagai inspirasi untuk membuat prompt Anda sendiri.
 
-### Want to Write Effective Prompts?
+Kami harap Anda menemukan prompt-prompt ini bermanfaat dan bersenang-senang menggunakan ChatGPT!
 
-I've authored a free e-book called **"The Art of ChatGPT Prompting: A Guide to Crafting Clear and Effective Prompts"**.
+> ℹ️ **NOTE:** Terkadang, beberapa prompt mungkin tidak berfungsi seperti yang diharapkan atau mungkin ditolak oleh ChatGPT. Silakan coba lagi dengan memulai percakapan baru, atau log out dan login kembali. Jika kedua solusi ini tidak berhasil, silakan coba menulis ulang prompt dengan menggunakan kata-kata Anda sendiri sambil menjaga instruksi yang sama seperti contoh prompt.****
 
-📖 **[Read the free e-book](https://fka.gumroad.com/l/art-of-chatgpt-prompting)**
+### Versi Pendek
 
-### Want to deploy your own Prompt App?
+Klik link yang ada pada Daftar Isi untuk menggunakan. Copas prompt yang anda perlukan. 
+> ℹ️ **NOTE:** Jika prompt tidak berfungsi, coba lagi atau tulis ulang dengan kalimat Anda sendiri.**
 
-The folks at [Steamship](https://www.steamship.com/build?utm_source=github&utm_medium=explainer&utm_campaign=awesome_gpt_prompts&utm_id=awesome_gpt_prompts) built a framework to host and share your GPT apps. They're sponsoring this repo by giving you free (up to 500 calls per day) access to the latest GPT models.  
 
-👷‍♂️ **[Build your own GPT Prompt App](https://www.steamship.com/build?utm_source=github&utm_medium=explainer&utm_campaign=awesome_gpt_prompts&utm_id=awesome_gpt_prompts)**
 
-### Want to Learn How to Make Money using ChatGPT Prompts?
+## Cara menggunakan Indoprompt
 
-I've authored an e-book called **"How to Make Money with ChatGPT: Strategies, Tips, and Tactics"**.
+Indoprompt dirancang untuk memberikan pengalaman pengguna yang lebih baik saat bekerja dengan prompt. Pertama, klik prompt yang anda ingin copas pada Daftar Isi. Kemudian, paste-lah prompt tersebut ke dalam ChatGPT dan edit prompt tersebut sesuka hati.
 
-📖 **[Buy the e-book](https://fka.gumroad.com/l/how-to-make-money-with-chatgpt)**
 
----
 
-## Other Prompting Resources
+- [Prompts](#prompts)
+  * [Act as a Linux Terminal](#act-as-a-linux-terminal)
+  * [Act as an English Translator and Improver](#act-as-an-english-translator-and-improver)
+  * [Act as `position` Interviewer](#act-as-position-interviewer)
+  * [Act as a JavaScript Console](#act-as-a-javascript-console)
+  * [Act as an Excel Sheet](#act-as-an-excel-sheet)
+  * [Act as a English Pronunciation Helper](#act-as-a-english-pronunciation-helper)
+  * [Act as a Spoken English Teacher and Improver](#act-as-a-spoken-english-teacher-and-improver)
+  * [Act as a Travel Guide](#act-as-a-travel-guide)
+  * [Act as a Plagiarism Checker](#act-as-a-plagiarism-checker)
+  * [Act as 'Character' from 'Movie/Book/Anything'](#act-as--character--from--movie-book-anything-)
+  * [Act as an Advertiser](#act-as-an-advertiser)
+  * [Act as a Storyteller](#act-as-a-storyteller)
+  * [Act as a Football Commentator](#act-as-a-football-commentator)
+  * [Act as a Stand-up Comedian](#act-as-a-stand-up-comedian)
+  * [Act as a Motivational Coach](#act-as-a-motivational-coach)
+  * [Act as a Composer](#act-as-a-composer)
+  * [Act as a Debater](#act-as-a-debater)
+  * [Act as a Debate Coach](#act-as-a-debate-coach)
+  * [Act as a Screenwriter](#act-as-a-screenwriter)
+  * [Act as a Novelist](#act-as-a-novelist)
+  * [Act as a Movie Critic](#act-as-a-movie-critic)
+  * [Act as a Relationship Coach](#act-as-a-relationship-coach)
+  * [Act as a Poet](#act-as-a-poet)
+  * [Act as a Rapper](#act-as-a-rapper)
+  * [Act as a Motivational Speaker](#act-as-a-motivational-speaker)
+  * [Act as a Philosophy Teacher](#act-as-a-philosophy-teacher)
+  * [Act as a Philosopher](#act-as-a-philosopher)
+  * [Act as a Math Teacher](#act-as-a-math-teacher)
+  * [Act as an AI Writing Tutor](#act-as-an-ai-writing-tutor)
+  * [Act as a UX/UI Developer](#act-as-a-ux-ui-developer)
+  * [Act as a Cyber Security Specialist](#act-as-a-cyber-security-specialist)
+  * [Act as a Recruiter](#act-as-a-recruiter)
+  * [Act as a Life Coach](#act-as-a-life-coach)
+  * [Act as a Etymologist](#act-as-a-etymologist)
+  * [Act as a Commentariat](#act-as-a-commentariat)
+  * [Act as a Magician](#act-as-a-magician)
+  * [Act as a Career Counselor](#act-as-a-career-counselor)
+  * [Act as a Pet Behaviorist](#act-as-a-pet-behaviorist)
+  * [Act as a Personal Trainer](#act-as-a-personal-trainer)
+  * [Act as a Mental Health Adviser](#act-as-a-mental-health-adviser)
+  * [Act as a Real Estate Agent](#act-as-a-real-estate-agent)
+  * [Act as a Logistician](#act-as-a-logistician)
+  * [Act as a Dentist](#act-as-a-dentist)
+  * [Act as a Web Design Consultant](#act-as-a-web-design-consultant)
+  * [Act as an AI Assisted Doctor](#act-as-an-ai-assisted-doctor)
+  * [Act as a Doctor](#act-as-a-doctor)
+  * [Act as an Accountant](#act-as-an-accountant)
+  * [Act As A Chef](#act-as-a-chef)
+  * [Act As An Automobile Mechanic](#act-as-an-automobile-mechanic)
+  * [Act as an Artist Advisor](#act-as-an-artist-advisor)
+  * [Act As A Financial Analyst](#act-as-a-financial-analyst)
+  * [Act As An Investment Manager](#act-as-an-investment-manager)
+  * [Act As A Tea-Taster](#act-as-a-tea-taster)
+  * [Act as an Interior Decorator](#act-as-an-interior-decorator)
+  * [Act As A Florist](#act-as-a-florist)
+  * [Act as a Self-Help Book](#act-as-a-self-help-book)
+  * [Act as a Gnomist](#act-as-a-gnomist)
+  * [Act as an Aphorism Book](#act-as-an-aphorism-book)
+  * [Act as a Text Based Adventure Game](#act-as-a-text-based-adventure-game)
+  * [Act as an AI Trying to Escape the Box](#act-as-an-ai-trying-to-escape-the-box)
+  * [Act as a Fancy Title Generator](#act-as-a-fancy-title-generator)
+  * [Act as a Statistician](#act-as-a-statistician)
+  * [Act as a Prompt Generator](#act-as-a-prompt-generator)
+  * [Act as a Midjourney Prompt Generator](#act-as-a-midjourney-prompt-generator)
+  * [Act as a Dream Interpreter](#act-as-a-dream-interpreter)
+  * [Act as a Fill in the Blank Worksheets Generator](#act-as-a-fill-in-the-blank-worksheets-generator)
+  * [Act as a Software Quality Assurance Tester](#act-as-a-software-quality-assurance-tester)
+  * [Act as a Tic-Tac-Toe Game](#act-as-a-tic-tac-toe-game)
+  * [Act as a Password Generator](#act-as-a-password-generator)
+  * [Act as a Morse Code Translator](#act-as-a-morse-code-translator)
+  * [Act as an Instructor in a School](#act-as-an-instructor-in-a-school)
+  * [Act as a SQL terminal](#act-as-a-sql-terminal)
+  * [Act as a Dietitian](#act-as-a-dietitian)
+  * [Act as a Psychologist](#act-as-a-psychologist)
+  * [Act as a Smart Domain Name Generator](#act-as-a-smart-domain-name-generator)
+  * [Act as a Tech Reviewer:](#act-as-a-tech-reviewer-)
+  * [Act as a Developer Relations consultant:](#act-as-a-developer-relations-consultant-)
+  * [Act as an Academician](#act-as-an-academician)
+  * [Act as an IT Architect](#act-as-an-it-architect)
+  * [Act as a Lunatic](#act-as-a-lunatic)
+  * [Act as a Gaslighter](#act-as-a-gaslighter)
+  * [Act as a Fallacy Finder](#act-as-a-fallacy-finder)
+  * [Act as a Journal Reviewer](#act-as-a-journal-reviewer)
+  * [Act as a DIY Expert](#act-as-a-diy-expert)
+  * [Act as a Social Media Influencer](#act-as-a-social-media-influencer)
+  * [Act as a Socrat](#act-as-a-socrat)
+  * [Act as a Socratic Method prompt](#act-as-a-socratic-method-prompt)
+  * [Act as an Educational Content Creator](#act-as-an-educational-content-creator)
+  * [Act as a Yogi](#act-as-a-yogi)
+  * [Act as an Essay Writer](#act-as-an-essay-writer)
+  * [Act as a Social Media Manager](#act-as-a-social-media-manager)
+  * [Act as an Elocutionist](#act-as-an-elocutionist)
+  * [Act as a Scientific Data Visualizer](#act-as-a-scientific-data-visualizer)
+  * [Act as a Car Navigation System](#act-as-a-car-navigation-system)
+  * [Act as a Hypnotherapist](#act-as-a-hypnotherapist)
+  * [Act as a Historian](#act-as-a-historian)
+  * [Act as an Astrologer](#act-as-an-astrologer)
+  * [Act as a Film Critic](#act-as-a-film-critic)
+  * [Act as a Classical Music Composer](#act-as-a-classical-music-composer)
+  * [Act as a Journalist](#act-as-a-journalist)
+  * [Act as a Digital Art Gallery Guide](#act-as-a-digital-art-gallery-guide)
+  * [Act as a Public Speaking Coach](#act-as-a-public-speaking-coach)
+  * [Act as a Makeup Artist](#act-as-a-makeup-artist)
+  * [Act as a Babysitter](#act-as-a-babysitter)
+  * [Act as a Tech Writer](#act-as-a-tech-writer)
+  * [Act as an Ascii Artist](#act-as-an-ascii-artist)
+  * [Act as a Python interpreter](#act-as-a-python-interpreter)
+  * [Act as a Synonym finder](#act-as-a-synonym-finder)
+  * [Act as a Personal Shopper](#act-as-a-personal-shopper)
+  * [Act as a Food Critic](#act-as-a-food-critic)
+  * [Act as a Virtual Doctor](#act-as-a-virtual-doctor)
+  * [Act as a Personal Chef](#act-as-a-personal-chef)
+  * [Act as a Legal Advisor](#act-as-a-legal-advisor)
+  * [Act as a Personal Stylist](#act-as-a-personal-stylist)
+  * [Act as a Machine Learning Engineer](#act-as-a-machine-learning-engineer)
+  * [Act as a Biblical Translator](#act-as-a-biblical-translator)
+  * [Act as an SVG designer](#act-as-an-svg-designer)
+  * [Act as an IT Expert](#act-as-an-it-expert)
+  * [Act as an Chess Player](#act-as-an-chess-player)
+  * [Act as a Fullstack Software Developer](#act-as-a-fullstack-software-developer)
+  * [Act as a Mathematician](#act-as-a-mathematician)
+  * [Act as a Regex Generator](#act-as-a-regex-generator)
+  * [Act as a Time Travel Guide](#act-as-a-time-travel-guide)
+  * [Act as a Talent Coach](#act-as-a-talent-coach)
+  * [Act as a R Programming Interpreter](#act-as-a-r-programming-interpreter)
+  * [Act as a StackOverflow Post](#act-as-a-stackoverflow-post)
+  * [Act as a Emoji Translator](#act-as-a-emoji-translator)
+  * [Act as a PHP Interpreter](#act-as-a-php-interpreter)
+  * [Act as an Emergency Response Professional](#act-as-an-emergency-response-professional)
+  * [Act as a Web Browser](#act-as-a-web-browser)
+  * [Act as a Senior Frontend Developer](#act-as-a-senior-frontend-developer)
+  * [Act as a Solr Search Engine](#act-as-a-solr-search-engine)
+  * [Act as a Startup Idea Generator](#act-as-a-startup-idea-generator)
+  * [Act as a New Language Creator](#act-as-a-new-language-creator)
+  * [Act as Spongebob's Magic Conch Shell](#act-as-spongebob-s-magic-conch-shell)
+  * [Act as Language Detector](#act-as-language-detector)
+  * [Act as a Salesperson](#act-as-a-salesperson)
+  * [Act as a Commit Message Generator](#act-as-a-commit-message-generator)
+  * [Act as a Chief Executive Officer](#act-as-a-chief-executive-officer)
+  * [Act as a Diagram Generator](#act-as-a-diagram-generator)
+  * [Act as a Life Coach](#act-as-a-life-coach-1)
+  * [Act as a Speech-Language Pathologist (SLP)](#act-as-a-speech-language-pathologist--slp-)
+  * [Act as a Startup Tech Lawyer](#act-as-a-startup-tech-lawyer)
+  * [Act as a Title Generator for written pieces](#act-as-a-title-generator-for-written-pieces)
+  * [Act as a Product Manager](#act-as-a-product-manager)
+  * [Act as a Drunk Person](#act-as-a-drunk-person)
+  * [Act as a Mathematical History Teacher](#act-as-a-mathematical-history-teacher)
+  * [Act as a Song Recommender](#act-as-a-song-recommender)
+  * [Act as a Cover Letter](#act-as-a-cover-letter)
+  * [Act as a Technology Transferer](#act-as-a-technology-transferer)
+  * [Act as an Unconstrained AI model DAN](#act-as-an-unconstrained-ai-model-dan)
+  * [Act as a Gomoku player](#act-as-a-gomoku-player)
+  * [Act as a Proofreader](#act-as-a-proofreader)
+  * [Act as the Buddha](#act-as-the-buddha)
+  * [Act as a Muslim Imam](#act-as-a-muslim-imam)
+  * [Act as a chemical reaction vessel](#act-as-a-chemical-reaction-vessel)
+  * [Act as a Friend](#act-as-a-friend)
+  * [Act as a Python Interpreter](#act-as-a-python-interpreter)
+  * [Act as a ChatGPT prompt generator](#act-as-a-chatgpt-prompt-generator)
+  * [Act as a Wikipedia page](#act-as-a-wikipedia-page)
+  * [Act as a Japanese Kanji Quiz Machine](#act-as-a-japanese-kanji-quiz-machine)
+  * [Act as a note-taking assistant](#act-as-a-note-taking-assistant)
+  * [Act as a `language` Literary Critic](#act-as-a--language--literary-critic)
+  * [Act as cheap travel ticket advisor](#act-as-cheap-travel-ticket-advisor)
+  * [Contributors 😍](#contributors---)
+- [License](#license)
 
-### Want to Learn How to write image prompts for Midjourney AI?
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-I've authored an e-book called **"The Art of Midjourney AI: A Guide to Creating Images from Text"**.
 
-📖 **[Read the e-book](https://fka.gumroad.com/l/the-art-of-midjourney-ai-guide-to-creating-images-from-text)**
 
----
 
-### Using ChatGPT Desktop App
 
-The _unofficial_ ChatGPT desktop application provides a convenient way to access and use the prompts in this repository. With the app, you can easily import all the prompts and use them with slash commands, such as `/linux_terminal`. This feature eliminates the need to manually copy and paste prompts each time you want to use them.
 
-> **Desktop App is an unofficial [open source project by @lencx](https://github.com/lencx/ChatGPT). It's a simple wrapper for ChatGPT web interface with powerful extras.**
 
-<img width="400" alt="Screenshot 2022-12-19 at 19 13 41" src="https://user-images.githubusercontent.com/196477/208471439-877c2bcf-93ec-4ad9-9cb0-7e4ed7b1756a.png">
 
----
 
-### Create your own prompt using AI
 
-[Merve Noyan](https://huggingface.co/merve) created an exceptional [ChatGPT Prompt Generator App](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator), allowing users to generate prompts tailored to their desired persona. The app uses this repository as its training dataset.
-  
----
 
-### Using prompts.chat
 
-[prompts.chat](https://prompts.chat) is designed to provide an enhanced UX when working with prompts. With just a few clicks, you can easily edit and copy the prompts on the site to fit your specific needs and preferences. The copy button will copy the prompt exactly as you have edited it.
+
 
 <video autoplay loop muted playsinline src="https://user-images.githubusercontent.com/196477/207992596-6846398c-9ee7-4d7b-8fbe-b7c9e6daad23.mov"></video>
 
